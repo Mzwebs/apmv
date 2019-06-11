@@ -1,0 +1,30 @@
+[
+	{
+		"abbr": "Tx",
+		"name": "ALEX Taxi",
+		"addresse": "201 Chemin Des Mas de Richard",
+		"tel": "05 65 35 24 62",
+		"fax": "05 65 52 82"
+	},
+	{
+		"abbr": "Tx",
+		"name": "ARTUS Fabrice",
+		"addresse": "Chemin des Sliviers",
+		"tel": "05 65 35 24 62",
+		"fax": "05 65 52 82"
+	},
+	{
+		"abbr": "bs",
+		"name": "BRUNET Taxi",
+		"addresse": "Pech de Miramont",
+		"tel": "05 65 35 24 62",
+		"fax": "05 65 52 82"
+	},
+	{
+		"abbr": "ax",
+		"name": "Baptiste Taxi",
+		"addresse": "70 allée François de Fénelon",
+		"tel": "05 65 35 24 62",
+		"fax": "05 65 52 82"
+	}
+]
